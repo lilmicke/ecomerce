@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804306967275",
+    "project_id": "projectone-6a497",
+    "storage_bucket": "projectone-6a497.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804306967275:android:e59609013444ddc40a3cae",
+        "android_client_info": {
+          "package_name": "com.example.wazitoecomerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTDGi_rxAOBsoDcHctiB2cKc7GcGK2Iis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
